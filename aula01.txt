@@ -1,0 +1,5 @@
+Git - Controlador de versões, que possibilita voltar para qualquer uma das versões
+, muito util para trabalho em equipe para versionamento.
+
+Github -  Quase igual uma rede social onde programadores podem compartilhar seus código ou armazenar repositórios.
+
