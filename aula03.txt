@@ -1,0 +1,17 @@
+Conteudo da aula 03 foi boas práticas 
+// String destinada ao armazenamento do sobrenome
+String nome;
+
+//Boas práticas GIT
+//Sempre usar flags no inicio de cada descriçaõ de commit
+//feat - para nova funcionalidades, ou qualquer cois que seja nova..
+//fix - Para correções 
+//style - Para mudanças no estilo do código
+//refactor - Para melhorias, alterações e exclusões
+
+//Sempre descreva de forma clara o commit com no máximo 50 caracteres
+
+
+//Quando a nomeação de Branchs
+//Nomear uma branch com no máximo 5 palavras.
+// E de forma genérica
